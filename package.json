@@ -3,7 +3,7 @@
   "displayName": "motivational-quote",
   "description": "displays a motivational (maybe) quote in the status bar",
   "version": "0.0.1",
-  "publisher": "Yingtong Pan",
+  "publisher": "YingtongPan",
   "repository": {
         "type": "git",
         "url": "https://github.com/wp043/motivational-quotes.git"
