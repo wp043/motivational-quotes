@@ -78,3 +78,5 @@ The Motivational Quotes extension displays a random motivational quote in the st
             ]
         }
         ```
+## License
+This project is licensed under the MIT License.
