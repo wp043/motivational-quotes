@@ -33,7 +33,7 @@ The Motivational Quotes extension displays a random motivational quote in the st
 ## Installation
 1. Install from VSCode Marketplace:
 
-- Search for "Motivational Quotes" in the Extensions view (Ctrl+Shift+X or Cmd+Shift+X on macOS) and click Install.
+- Search for "motivational-quote" in the Extensions view (Ctrl+Shift+X or Cmd+Shift+X on macOS) and click Install.
 
 2. Install from Source:
 
