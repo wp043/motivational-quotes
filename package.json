@@ -1,8 +1,8 @@
 {
   "name": "motivational-quote",
-  "displayName": "motivational-quote",
+  "displayName": "Motivational Quote",
   "description": "displays a motivational (maybe) quote in the status bar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "YingtongPan",
   "repository": {
         "type": "git",
